@@ -2,6 +2,9 @@
 
 Welcome to the Color Guessing Game! This is a fun and interactive web-based game where players try to guess the correct color from a set of colored squares. The game features two difficulty levels, easy and hard, and offers an engaging way to test your color recognition skills.
 
+![Screenshot from 2025-02-08 10-10-36](https://github.com/user-attachments/assets/ab4bef19-69e8-4d96-93c4-5a23777be82e)
+
+
 ## Features
 
 - **Two Difficulty Levels**: Choose between Easy (3 squares) and Hard (9 squares).
